@@ -1,3 +1,4 @@
+
 public class Book {
     private String title, author, description;
     private double price;
@@ -58,4 +59,6 @@ public class Book {
     public void setInStock(boolean inStock) {
         isInStock = inStock;
     }
+
+
 }
